@@ -7,8 +7,9 @@ Open with android studio, should be runnable out of the box.
 
 ## TO DO
 
-GPS
-better storage of contact files (dumps serializable list to local storage)
-swipe contact actions (left to delete, right to text?)
+- GPS
+- better storage of contact files (dumps serializable list to local storage)
+- swipe contact actions (left to delete, right to text?)
+- refactoring/organizing (I scrambled this together very quickly to get a working version before a networking event)
 
 
